@@ -31,7 +31,3 @@ https://rafflafressia.github.io/week-1-assignment/#
 ## GitHub Repository
 
 https://github.com/Rafflafressia/week-1-assignment
-
-## Screenshot of Page
-
-[Horiseon Landing Page](assets/screenshot/horiseon-screen.jpg?raw=true "Horiseon SEO landing page)
